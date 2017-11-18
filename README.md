@@ -4,6 +4,8 @@ An SRD and generator for [Dungeon World](http://www.dungeon-world.com/)
 
 Hosted at [http://robotacid.com/games/dw-improv/](http://robotacid.com/games/dw-improv/)
 
+Hosted in Github Pages at [https://mdiehr.github.io/dw-improv/](https://mdiehr.github.io/dw-improv/)
+
 By Aaron Steed.
 
 Contains text from:
